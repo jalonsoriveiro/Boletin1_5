@@ -20,7 +20,7 @@ public class Bol1_5 {
         //    5- Escribe un programa que lea o valor dunha distancia en millas mariñas e a pase a metros ( 1 milla mariña = 1852 m ).
         //Codifica o programa correspondente para executar o programa
 
-        float valorMillaMetro = 1852;
+        final float valorMillaMetro = 1852;
         
         System.out.print("Millas =");
         Scanner milla= new Scanner(System.in);
