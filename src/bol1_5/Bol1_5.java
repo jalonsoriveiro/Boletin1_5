@@ -26,7 +26,7 @@ public class Bol1_5 {
         Scanner milla= new Scanner(System.in);
         float millas = milla.nextFloat();  
         System.out.println("");         
-        System.out.print(" Valor millas ="+valorMillaMetro*millas);
+        System.out.print("Valor millas en metros ="+valorMillaMetro*millas);
     }
     
 }
